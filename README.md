@@ -1,4 +1,4 @@
-# 360-petty-cash-notifier
+# 360-notifier
 
 # Google Chat Message Sender using Google Apps Script
 
